@@ -1,3 +1,8 @@
+/**
+ * Name: Reignard Uy & Arslan Mahmood
+ * StudentID: 100757893 &
+ * Date: 03/02/23
+ */
 (function () {
 
     function DisplayNavBar() {
